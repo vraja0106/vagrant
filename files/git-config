@@ -1,0 +1,6 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\M1013279\\Documents\\gitignore_global.txt
+[user]
+	name = Rajasekar Veerarajan
+	email = vr.rajasekar@gmail.com
