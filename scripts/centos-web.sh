@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Install Apache
 yum install -y httpd httpd-devel httpd-tools
 chkconfig --add httpd
